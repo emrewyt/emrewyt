@@ -1,0 +1,11 @@
+<svg width="165" height="46" viewBox="0 0 165 46" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect x="0.5" y="0.5" width="164" height="45" rx="10" fill="#141822" stroke="#2d3342"/>
+  <rect x="0.5" y="0.5" width="164" height="45" rx="10" fill="none" stroke="#25f4ee" stroke-opacity="0.4"/>
+  <!-- TikTok Note Icon -->
+  <g transform="translate(14, 12)">
+    <path d="M12 3C13 5.5 15.5 7 18 7V10.5C15.8 10.5 13.8 9.5 12.5 8.2V16.5C12.5 19.5 10 22 7 22C4 22 1.5 19.5 1.5 16.5C1.5 13.5 4 11 7 11C7.8 11 8.5 11.2 9.2 11.5V15.2C8.5 14.8 7.8 14.7 7 14.7C6 14.7 5.2 15.5 5.2 16.5C5.2 17.5 6 18.3 7 18.3C8 18.3 8.8 17.5 8.8 16.5V3H12Z" fill="#25f4ee"/>
+    <path d="M13 4C14 6.5 16.5 8 19 8V9C17 9 15 8 13.5 7V16.5C13.5 19.5 11 22 8 22C7.3 22 6.6 21.8 6 21.5C7.2 21.8 8.5 21.5 9.5 20.5C10.5 19.5 11 18 11 16.5V3H13Z" fill="#fe2c55" fill-opacity="0.8"/>
+  </g>
+  <text x="44" y="21" font-family="-apple-system, 'Segoe UI', sans-serif" font-size="10.5" fill="#8b949e" font-weight="600" letter-spacing="1">TIKTOK</text>
+  <text x="44" y="34" font-family="'JetBrains Mono', Consolas, monospace" font-size="12" fill="#ffffff" font-weight="bold">@wespcai</text>
+</svg>

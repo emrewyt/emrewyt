@@ -1,0 +1,11 @@
+<svg width="165" height="46" viewBox="0 0 165 46" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect x="0.5" y="0.5" width="164" height="45" rx="10" fill="#141822" stroke="#2d3342"/>
+  <rect x="0.5" y="0.5" width="164" height="45" rx="10" fill="none" stroke="#ff0000" stroke-opacity="0.4"/>
+  <!-- YouTube Play Icon -->
+  <g transform="translate(14, 13)">
+    <rect width="22" height="16" rx="4" fill="#ff0000"/>
+    <polygon points="9,5 15,8 9,11" fill="#ffffff"/>
+  </g>
+  <text x="44" y="21" font-family="-apple-system, 'Segoe UI', sans-serif" font-size="10.5" fill="#8b949e" font-weight="600" letter-spacing="1">YOUTUBE</text>
+  <text x="44" y="34" font-family="'JetBrains Mono', Consolas, monospace" font-size="12" fill="#ffffff" font-weight="bold">@wespcai</text>
+</svg>

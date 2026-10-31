@@ -1,0 +1,10 @@
+<svg width="165" height="46" viewBox="0 0 165 46" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect x="0.5" y="0.5" width="164" height="45" rx="10" fill="#141822" stroke="#2d3342"/>
+  <rect x="0.5" y="0.5" width="164" height="45" rx="10" fill="none" stroke="#f0f6fc" stroke-opacity="0.3"/>
+  <!-- GitHub Octocat Icon -->
+  <g transform="translate(14, 12)">
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M11 2C6.03 2 2 6.03 2 11C2 14.98 4.58 18.35 8.15 19.54C8.6 19.62 8.76 19.34 8.76 19.11C8.76 18.9 8.75 18.19 8.75 17.44C6.5 17.85 5.92 16.74 5.74 16.24C5.64 15.99 5.2 15.19 4.82 14.97C4.5 14.8 4.05 14.38 4.81 14.37C5.52 14.36 6.03 15.02 6.2 15.29C7.01 16.66 8.31 16.27 8.83 16.03C8.91 15.44 9.15 15.04 9.41 14.81C7.41 14.58 5.31 13.81 5.31 10.37C5.31 9.39 5.66 8.58 6.24 7.95C6.15 7.72 5.84 6.8 6.33 5.56C6.33 5.56 7.08 5.32 8.78 6.47C9.5 6.27 10.26 6.17 11.02 6.17C11.78 6.17 12.54 6.27 13.26 6.47C14.96 5.31 15.71 5.56 15.71 5.56C16.2 6.8 15.89 7.72 15.8 7.95C16.38 8.58 16.72 9.38 16.72 10.37C16.72 13.82 14.61 14.58 12.61 14.81C12.94 15.09 13.22 15.63 13.22 16.48C13.22 17.69 13.21 18.66 13.21 18.96C13.21 19.19 13.38 19.47 13.83 19.38C17.41 18.19 20 14.82 20 11C20 6.03 15.97 2 11 2Z" fill="#ffffff"/>
+  </g>
+  <text x="44" y="21" font-family="-apple-system, 'Segoe UI', sans-serif" font-size="10.5" fill="#8b949e" font-weight="600" letter-spacing="1">GITHUB</text>
+  <text x="44" y="34" font-family="'JetBrains Mono', Consolas, monospace" font-size="12" fill="#ffffff" font-weight="bold">@emrewyt</text>
+</svg>

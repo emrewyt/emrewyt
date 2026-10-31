@@ -4,10 +4,6 @@
       <stop offset="0%" stop-color="#0b0e14" stop-opacity="0.98"/>
       <stop offset="100%" stop-color="#141824" stop-opacity="0.95"/>
     </linearGradient>
-    <linearGradient id="quote_glow" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#ff4757"/>
-      <stop offset="100%" stop-color="#ffa502"/>
-    </linearGradient>
   </defs>
 
   <!-- Border & Background -->
@@ -28,14 +24,14 @@
   <text x="32" y="74" font-family="'JetBrains Mono', Consolas, monospace" font-size="13" fill="#ff4757" font-weight="bold">"Tonight's the night. And it's going to happen again and again."</text>
   
   <text x="32" y="104" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="13.5" fill="#c9d1d9">
-    Karmaşık soyutlamaların arkasına saklanmadan, sistemin nasıl çalıştığını derinlemesine anlamak;
+    Understanding how software truly behaves beneath the surface, refusing to hide behind arbitrary abstractions.
   </text>
   <text x="32" y="126" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="13.5" fill="#c9d1d9">
-    düşük seviyeli kontrolü modern masaüstü ve oyun mimarileriyle birleştirerek amaca hizmet eden yazılımlar üretmek.
+    Merging low-level system control with modern desktop architecture and sharp, aesthetic design.
   </text>
 
   <!-- Bottom Terminal Tag -->
   <text x="32" y="156" font-family="'JetBrains Mono', Consolas, monospace" font-size="11.5" fill="#6e7681">
-    $ echo "understand the system · break the unnecessary · rebuild with aesthetic precision"
+    $ echo "understand the system · strip the noise · craft with purpose"
   </text>
 </svg>

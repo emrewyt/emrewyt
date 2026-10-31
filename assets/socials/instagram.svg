@@ -1,0 +1,19 @@
+<svg width="165" height="46" viewBox="0 0 165 46" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="ig" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#f09433"/>
+      <stop offset="50%" stop-color="#dc2743"/>
+      <stop offset="100%" stop-color="#bc1888"/>
+    </linearGradient>
+  </defs>
+  <rect x="0.5" y="0.5" width="164" height="45" rx="10" fill="#141822" stroke="#2d3342"/>
+  <rect x="0.5" y="0.5" width="164" height="45" rx="10" fill="none" stroke="url(#ig)" stroke-opacity="0.4"/>
+  <!-- Instagram Camera Icon -->
+  <g transform="translate(14, 12)">
+    <rect x="1" y="1" width="20" height="20" rx="5.5" stroke="url(#ig)" stroke-width="2"/>
+    <circle cx="11" cy="11" r="4.5" stroke="url(#ig)" stroke-width="2"/>
+    <circle cx="16.5" cy="5.5" r="1.2" fill="url(#ig)"/>
+  </g>
+  <text x="44" y="21" font-family="-apple-system, 'Segoe UI', sans-serif" font-size="10.5" fill="#8b949e" font-weight="600" letter-spacing="1">INSTAGRAM</text>
+  <text x="44" y="34" font-family="'JetBrains Mono', Consolas, monospace" font-size="12" fill="#ffffff" font-weight="bold">@wespcai</text>
+</svg>
