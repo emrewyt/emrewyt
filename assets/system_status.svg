@@ -1,0 +1,71 @@
+<svg width="840" height="230" viewBox="0 0 840 230" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="card_bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0b0e14" stop-opacity="0.96"/>
+      <stop offset="100%" stop-color="#141824" stop-opacity="0.92"/>
+    </linearGradient>
+    <linearGradient id="crimson_glow" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ff3344"/>
+      <stop offset="100%" stop-color="#880815"/>
+    </linearGradient>
+    <linearGradient id="cyan_glow" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00f2fe"/>
+      <stop offset="100%" stop-color="#4facfe"/>
+    </linearGradient>
+    <linearGradient id="emerald_glow" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00f5a0"/>
+      <stop offset="100%" stop-color="#00d9f5"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Border & Card Background -->
+  <rect x="1" y="1" width="838" height="228" rx="14" fill="url(#card_bg)" stroke="#232838" stroke-width="1.5"/>
+  <rect x="1" y="1" width="838" height="228" rx="14" fill="none" stroke="#ff3344" stroke-width="1.2" stroke-opacity="0.35"/>
+
+  <!-- Top Terminal Header -->
+  <circle cx="26" cy="25" r="5.5" fill="#ff5f56"/>
+  <circle cx="44" cy="25" r="5.5" fill="#ffbd2e"/>
+  <circle cx="62" cy="25" r="5.5" fill="#27c93f"/>
+  
+  <text x="82" y="29" font-family="'JetBrains Mono', Consolas, monospace" font-size="12" fill="#8b949e" letter-spacing="1.5">DIAGNOSTICS // FLUVEA KERNEL &amp; SYSTEMS MATRIX</text>
+  <text x="745" y="29" font-family="'JetBrains Mono', Consolas, monospace" font-size="11" fill="#00f5a0" font-weight="bold">ONLINE ●</text>
+
+  <line x1="15" y1="46" x2="825" y2="46" stroke="#21262d" stroke-width="1"/>
+
+  <!-- Metric 1: Kernel & Reverse Engineering -->
+  <text x="32" y="77" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="13" fill="#e6edf3" font-weight="600">Ring-0 Kernel &amp; Binary Reverse Engineering</text>
+  <text x="352" y="77" font-family="'JetBrains Mono', monospace" font-size="12" fill="#ff3344" font-weight="bold">99.4%</text>
+  <rect x="32" y="86" width="350" height="7" rx="3.5" fill="#1b1f2b"/>
+  <rect x="32" y="86" width="348" height="7" rx="3.5" fill="url(#crimson_glow)"/>
+
+  <!-- Metric 2: .NET 8 / C# WPF Desktop -->
+  <text x="32" y="127" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="13" fill="#e6edf3" font-weight="600">C# / WPF (.NET 8) Desktop &amp; Mica UI</text>
+  <text x="352" y="127" font-family="'JetBrains Mono', monospace" font-size="12" fill="#4facfe" font-weight="bold">98.8%</text>
+  <rect x="32" y="136" width="350" height="7" rx="3.5" fill="#1b1f2b"/>
+  <rect x="32" y="136" width="346" height="7" rx="3.5" fill="url(#cyan_glow)"/>
+
+  <!-- Metric 3: Native C/C++ Systems & Hooks -->
+  <text x="32" y="177" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="13" fill="#e6edf3" font-weight="600">Native C/C++ (DX11/12, MinHook, IPC Bridges)</text>
+  <text x="352" y="177" font-family="'JetBrains Mono', monospace" font-size="12" fill="#00f5a0" font-weight="bold">96.5%</text>
+  <rect x="32" y="186" width="350" height="7" rx="3.5" fill="#1b1f2b"/>
+  <rect x="32" y="186" width="338" height="7" rx="3.5" fill="url(#emerald_glow)"/>
+
+  <!-- Divider Vert -->
+  <line x1="425" y1="58" x2="425" y2="210" stroke="#21262d" stroke-width="1"/>
+
+  <!-- Right Block: Operational Telemetry -->
+  <text x="450" y="78" font-family="'JetBrains Mono', monospace" font-size="12" fill="#8b949e">PRIMARY STACK</text>
+  <text x="565" y="78" font-family="'JetBrains Mono', monospace" font-size="12" fill="#f0f6fc" font-weight="bold">C# · C/C++ · Python · React</text>
+
+  <text x="450" y="110" font-family="'JetBrains Mono', monospace" font-size="12" fill="#8b949e">DESIGN AESTHETIC</text>
+  <text x="565" y="110" font-family="'JetBrains Mono', monospace" font-size="12" fill="#f0f6fc" font-weight="bold">Apple Precision · Steam Depth</text>
+
+  <text x="450" y="142" font-family="'JetBrains Mono', monospace" font-size="12" fill="#8b949e">DRIVER STATUS</text>
+  <text x="565" y="142" font-family="'JetBrains Mono', monospace" font-size="12" fill="#00f5a0" font-weight="bold">Ring-0 WDK-Free [ARMORED]</text>
+
+  <text x="450" y="174" font-family="'JetBrains Mono', monospace" font-size="12" fill="#8b949e">FLAGSHIP APPS</text>
+  <text x="565" y="174" font-family="'JetBrains Mono', monospace" font-size="12" fill="#58a6ff" font-weight="bold">Ares · Oxzi · Velorair</text>
+
+  <text x="450" y="206" font-family="'JetBrains Mono', monospace" font-size="12" fill="#8b949e">STUDIO / IDENTITY</text>
+  <text x="565" y="206" font-family="'JetBrains Mono', monospace" font-size="12" fill="#ff3344" font-weight="bold">FLUVEA Founder (Wespcai)</text>
+</svg>
