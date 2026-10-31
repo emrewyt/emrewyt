@@ -1,0 +1,64 @@
+<svg width="840" height="90" viewBox="0 0 840 90" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="tile_bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#161b22"/>
+      <stop offset="100%" stop-color="#0d1117"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Tile 1: C# / .NET 8 -->
+  <g transform="translate(10, 15)">
+    <rect width="105" height="60" rx="10" fill="url(#tile_bg)" stroke="#30363d" stroke-width="1.2"/>
+    <rect x="0" y="0" width="105" height="4" rx="2" fill="#512bd4"/>
+    <text x="52" y="32" font-family="-apple-system, 'Segoe UI', sans-serif" font-size="14" fill="#ffffff" font-weight="bold" text-anchor="middle">C#</text>
+    <text x="52" y="48" font-family="'JetBrains Mono', monospace" font-size="11" fill="#a371f7" text-anchor="middle">.NET 8 / WPF</text>
+  </g>
+
+  <!-- Tile 2: C / C++ -->
+  <g transform="translate(125, 15)">
+    <rect width="105" height="60" rx="10" fill="url(#tile_bg)" stroke="#30363d" stroke-width="1.2"/>
+    <rect x="0" y="0" width="105" height="4" rx="2" fill="#00599c"/>
+    <text x="52" y="32" font-family="-apple-system, 'Segoe UI', sans-serif" font-size="14" fill="#ffffff" font-weight="bold" text-anchor="middle">C / C++</text>
+    <text x="52" y="48" font-family="'JetBrains Mono', monospace" font-size="11" fill="#58a6ff" text-anchor="middle">Systems &amp; Hooks</text>
+  </g>
+
+  <!-- Tile 3: Python -->
+  <g transform="translate(240, 15)">
+    <rect width="105" height="60" rx="10" fill="url(#tile_bg)" stroke="#30363d" stroke-width="1.2"/>
+    <rect x="0" y="0" width="105" height="4" rx="2" fill="#3776ab"/>
+    <text x="52" y="32" font-family="-apple-system, 'Segoe UI', sans-serif" font-size="14" fill="#ffffff" font-weight="bold" text-anchor="middle">Python</text>
+    <text x="52" y="48" font-family="'JetBrains Mono', monospace" font-size="11" fill="#79c0ff" text-anchor="middle">Tooling &amp; Scripts</text>
+  </g>
+
+  <!-- Tile 4: Reverse Eng -->
+  <g transform="translate(355, 15)">
+    <rect width="115" height="60" rx="10" fill="url(#tile_bg)" stroke="#30363d" stroke-width="1.2"/>
+    <rect x="0" y="0" width="115" height="4" rx="2" fill="#ff3344"/>
+    <text x="57" y="32" font-family="-apple-system, 'Segoe UI', sans-serif" font-size="13" fill="#ffffff" font-weight="bold" text-anchor="middle">Reverse Eng</text>
+    <text x="57" y="48" font-family="'JetBrains Mono', monospace" font-size="11" fill="#ff7b72" text-anchor="middle">Memory &amp; DX11</text>
+  </g>
+
+  <!-- Tile 5: Electron -->
+  <g transform="translate(480, 15)">
+    <rect width="105" height="60" rx="10" fill="url(#tile_bg)" stroke="#30363d" stroke-width="1.2"/>
+    <rect x="0" y="0" width="105" height="4" rx="2" fill="#47848f"/>
+    <text x="52" y="32" font-family="-apple-system, 'Segoe UI', sans-serif" font-size="14" fill="#ffffff" font-weight="bold" text-anchor="middle">Electron</text>
+    <text x="52" y="48" font-family="'JetBrains Mono', monospace" font-size="11" fill="#56d4dd" text-anchor="middle">Desktop Apps</text>
+  </g>
+
+  <!-- Tile 6: Web Stack -->
+  <g transform="translate(595, 15)">
+    <rect width="110" height="60" rx="10" fill="url(#tile_bg)" stroke="#30363d" stroke-width="1.2"/>
+    <rect x="0" y="0" width="110" height="4" rx="2" fill="#61dafb"/>
+    <text x="55" y="32" font-family="-apple-system, 'Segoe UI', sans-serif" font-size="14" fill="#ffffff" font-weight="bold" text-anchor="middle">React &amp; Vite</text>
+    <text x="55" y="48" font-family="'JetBrains Mono', monospace" font-size="11" fill="#38bdf8" text-anchor="middle">Tailwind CSS</text>
+  </g>
+
+  <!-- Tile 7: Game Engines -->
+  <g transform="translate(715, 15)">
+    <rect width="115" height="60" rx="10" fill="url(#tile_bg)" stroke="#30363d" stroke-width="1.2"/>
+    <rect x="0" y="0" width="115" height="4" rx="2" fill="#2ea043"/>
+    <text x="57" y="32" font-family="-apple-system, 'Segoe UI', sans-serif" font-size="13" fill="#ffffff" font-weight="bold" text-anchor="middle">Unreal / Unity</text>
+    <text x="57" y="48" font-family="'JetBrains Mono', monospace" font-size="11" fill="#7ee787" text-anchor="middle">Indie Game Dev</text>
+  </g>
+</svg>
